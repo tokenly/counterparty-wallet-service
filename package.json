@@ -1,0 +1,20 @@
+{
+  "name": "counterparty wallet service",
+  "version": "0.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon Weller <devon@tokenly.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "lodash": "^4.15.0",
+    "node-bvam-client": "^0.0.3",
+    "node-xcpd-client": "^0.1.5",
+    "npmlog": "^4.0.0",
+    "pkginfo": "^0.4.0",
+    "request": "^2.74.0"
+  }
+}
